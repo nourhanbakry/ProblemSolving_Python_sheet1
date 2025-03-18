@@ -23,4 +23,4 @@ This is my stash of solved problems from Codeforces Sheet 1, all coded up in Pyt
    git clone https://github.com/nourhanbakry/ProblemSolving_Python_sheet1.git
 1. **Run every problem**:  
    ```bash
-   python problem_a.py
+   python Problem A.py
