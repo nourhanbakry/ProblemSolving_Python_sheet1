@@ -11,7 +11,7 @@ This is my stash of solved problems from Codeforces Sheet 1, all coded up in Pyt
 ---
 
 ## Inside the Folder  
-- **Files**: Python scripts for each problem (like `problem_a.py`, `problem_b.py`, etc.).  
+- **Files**: Python scripts for each problem (like `Problem A.py`, `Problem B.py`, etc.).  
 - **Language**: Python 3 (simple and sweet).  
 - **Purpose**: Practice basic coding skills—inputs, loops, if-statements, you name it!  
 
